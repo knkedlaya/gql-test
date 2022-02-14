@@ -1,1 +1,3 @@
 # gql-test
+
+delete
